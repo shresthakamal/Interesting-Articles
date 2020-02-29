@@ -19,7 +19,7 @@
 
 [Top 5 Machine Learning Projects for Beginners](https://hackernoon.com/top-5-machine-learning-projects-for-beginners-47b184e7837f?fbclid=IwAR3TUi-YzKGZ6oZBSWa7HYFGK-OtIwkF4lU-SVH3Yarcm_1M8RG6QIeTs2o)
 
-[]()
+[Understanding the Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 
 
 
